@@ -27,12 +27,3 @@ Analysis and Visualization includes the data and plots which can help a football
 3. Using K-means clustering machine learning algorithm we built a cluster based on highest correlated columns that are computed with respect to player's position.
 
 
-
-
-
-
-
-<<<<<<< HEAD
-link to my video : sndofinspunfdusbuf
-=======
->>>>>>> 0f05b78397c89da546467bcf2b168c9b0369efd2
